@@ -33,12 +33,14 @@
 
 body {
   background: var(--backgroundimg) no-repeat top center/cover;
+  height: 100vh;
   color: var(--textcolor);
   font-family: "Inter", sans-serif;
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 0px auto 0 auto;
 }
 
@@ -105,6 +107,7 @@ body {
 
 #links > a {
   width: 100%;
+  max-width: 312px;
   background: var(--backgroundlinks);
   backdrop-filter: blur(4px);
   border: 1px solid var(--borderlinks);
@@ -146,4 +149,14 @@ footer {
   text-align: center;
   font-size: 14px;
   padding: 5px;
+}
+
+@media (min-width: 700px) {
+  :root {
+    --backgroundimg: url(./assets/dark-bg-desktop.jpg);
+  }
+
+  .light {
+    --backgroundimg: url(./assets/light-bg-desktop.jpg);
+  }
 }
