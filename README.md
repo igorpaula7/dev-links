@@ -9,5 +9,5 @@ Evento introdutório à programação Frontend. Realizei com o objetivo de relem
 | :rocket: URL         | https://igorpaula7.github.io/dev-links
 | :fire: Desafio     | https://app.rocketseat.com.br/devlinks
 
-![](<img src="./assets/results/darkmode-desktop.png">#vitrinedev)
+![](https://i.imgur.com/s6Tyu3Z.png#vitrinedev)
 
