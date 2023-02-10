@@ -1,5 +1,3 @@
-17 lines (12 sloc)  640 Bytes
-
 # Dev Links | Um evento Rocketseat
 
 Evento introdutório à programação Frontend. Realizei com o objetivo de relembrar alguns conteúdos de HTML e CSS, e ter uma melhor ciência do JS em páginas web. 
